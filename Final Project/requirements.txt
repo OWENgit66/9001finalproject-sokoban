@@ -1,0 +1,4 @@
+# Sokoban Game Requirements
+# Python 3.x required
+
+pygame==2.6.1
